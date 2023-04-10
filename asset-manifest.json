@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stars_portfolio/static/css/main.0cddfe3e.css",
+    "main.js": "/stars_portfolio/static/js/main.430db67d.js",
+    "static/media/ankkapomppu.png": "/stars_portfolio/static/media/ankkapomppu.31338cd5e8d6ef3369ed.png",
+    "static/media/selviytymispeli.png": "/stars_portfolio/static/media/selviytymispeli.63f822b1a93cee10008b.png",
+    "index.html": "/stars_portfolio/index.html",
+    "main.0cddfe3e.css.map": "/stars_portfolio/static/css/main.0cddfe3e.css.map",
+    "main.430db67d.js.map": "/stars_portfolio/static/js/main.430db67d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cddfe3e.css",
+    "static/js/main.430db67d.js"
+  ]
+}
