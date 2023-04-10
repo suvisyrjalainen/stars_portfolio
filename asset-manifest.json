@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stars_portfolio/static/css/main.701b0410.css",
-    "main.js": "/stars_portfolio/static/js/main.82685f0f.js",
+    "main.js": "/stars_portfolio/static/js/main.c3191f42.js",
     "static/media/ankkapomppu.png": "/stars_portfolio/static/media/ankkapomppu.31338cd5e8d6ef3369ed.png",
     "static/media/selviytymispeli.png": "/stars_portfolio/static/media/selviytymispeli.63f822b1a93cee10008b.png",
     "index.html": "/stars_portfolio/index.html",
     "main.701b0410.css.map": "/stars_portfolio/static/css/main.701b0410.css.map",
-    "main.82685f0f.js.map": "/stars_portfolio/static/js/main.82685f0f.js.map"
+    "main.c3191f42.js.map": "/stars_portfolio/static/js/main.c3191f42.js.map"
   },
   "entrypoints": [
     "static/css/main.701b0410.css",
-    "static/js/main.82685f0f.js"
+    "static/js/main.c3191f42.js"
   ]
 }
