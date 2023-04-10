@@ -6,7 +6,7 @@ return(
       <h2>Elementti</h2>
       <img src={logo} alt="react logo"/>
       <p>Tälläisen projektin olen esim tehnyt</p>
-      <a href="#" class="btn button_color">Linkki projektiin</a>
+      <a href="https://kodarit.com/fi/" class="btn button_color">Linkki projektiin</a>
   </div>);
 }
 
