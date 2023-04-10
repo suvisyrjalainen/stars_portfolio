@@ -1,0 +1,41 @@
+body{
+  background-color: #e6e6e6;
+}
+
+.element{
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.element img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.element img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+.header{
+  background-color: #8BB6C9;
+}
+
+.button_color{
+  background-color: #8BB6C9;
+}
+
+.fluid_container{
+  margin: auto;
+  padding: 30px;
+}
